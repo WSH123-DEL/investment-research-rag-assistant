@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+chroma_db/
+.idea/
+.DS_Store
+Thumbs.db
+data/*.pdf
+01.ipynb
+2.py
